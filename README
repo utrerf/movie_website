@@ -1,0 +1,12 @@
+Documentation
+-------------
+movie_website ontains files related to the moview website project in the Full Stack Nanodegree.
+
+media.py contains the class structure used in entertainment_center.py
+entertainment_center.py contains the movie content
+fresh_tomatoes.py contains the html and css 
+
+to use this repository just run entertainment_center.py with: python entertainment_center.py
+
+note:
+ensure that you have installed python on your machine.
